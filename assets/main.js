@@ -4,6 +4,9 @@ createApp({
     data() {
         return {
             message: 'Hello Monday, hello Vue!'
+
         }
     }
 }).mount('#app')
+
+
